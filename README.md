@@ -10,7 +10,7 @@ Petrozavodsk State University
 
 ## 🚀 Current focus
 
-- Building **leetnotes** — a CLI tool for tracking LeetCode progress
+- Building **[leetnotes](https://github.com/Curseppp/leetnotes)** — a CLI tool for tracking LeetCode progress
 - Practicing algorithms and data structures
 - Learning backend development and code quality tools
 
@@ -22,10 +22,6 @@ Petrozavodsk State University
 ![Ruff](https://img.shields.io/badge/Ruff-261230?logo=ruff&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-## 📌 Featured project
-
-[leetnotes](https://github.com/Curseppp/leetnotes) — a Python CLI app for tracking LeetCode problems, statuses, difficulties, and progress.
 
 ## 🔗 Links
 
