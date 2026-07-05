@@ -8,12 +8,6 @@ I'm a 21 y.o. Python developer focused on backend development, CLI tools, and al
 
 Petrozavodsk State University
 
-## 🚀 Current focus
-
-- Building **[leetnotes](https://github.com/Curseppp/leetnotes)** — a CLI tool for tracking LeetCode progress
-- Practicing algorithms and data structures
-- Learning backend development and code quality tools
-
 ## 🛠 Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
